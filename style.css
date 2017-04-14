@@ -1,4 +1,4 @@
-
+ 
 
 }
 
@@ -16,7 +16,7 @@ body
 
 .page-title 
 {
-  text-align: center;
+  text-align: left;
   font-weight: 70;
   font-family: 'Titillium Web', sans-serif;
   font-size: 25;
@@ -24,7 +24,7 @@ body
 
 .list
 {
-  text-align:left;
+  text-align: left;
   font-family:'titillium web', sans-serif;
   font-size: 12;
   
