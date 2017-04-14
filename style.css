@@ -14,8 +14,13 @@ body
   font-family: 'Titillium Web', sans-serif;
   font-size: 15;
   
+}
 
-  }
+p 
+{ 
+  font-family: 'Titillium Web', sans-serif;
+  text-align: left;
+}
 
 
 .page-title 
@@ -39,15 +44,11 @@ body
 
 .subheadings
 {
-  text-align: center;
+  text-align: left;
   font-family: 'Titillium Web', sans-serif;
   font-size: 20;
  
 }
 
-p 
-{ 
-  font-family: 'Titillium Web', sans-serif;
-  text-align: center;
-}
+
 
