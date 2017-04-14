@@ -1,11 +1,6 @@
 
 
-.page-title 
-{
-  text-align: center;
-  font-weight: 70;
-  font-family: 'Titillium Web', sans-serif;
-}
+
 
 
 body 
@@ -14,3 +9,19 @@ body
   
 
   }
+
+
+.page-title 
+{
+  text-align: center;
+  font-weight: 70;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.subheadings
+{
+  text-align: left;
+  font-weight: 40;
+  font-family: 'Titillium Web', sans-serif;
+}
+
