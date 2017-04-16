@@ -21,6 +21,7 @@ body
   background-image: url("bground2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+ font-family: 'Inconsolata', monospace, courier;
 
 
 }
