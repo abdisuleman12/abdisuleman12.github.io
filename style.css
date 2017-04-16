@@ -6,7 +6,34 @@ img {
     width: 50%;
 }
 
-body {
-    background-color: lightbrown;
-    
+h1
+{
+  font-family: "Calibri";
+  font-size: 64px;
+  text-decoration: underline;
+  text-align: center;
 }
+
+}
+
+body 
+{
+  background-image: url("background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+
+#skill, #experience, #education
+{
+  border-bottom: 2px solid gray;
+}
+
+#address
+
+{
+text-align: center;
+}
+
+
