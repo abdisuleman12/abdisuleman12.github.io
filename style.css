@@ -1,1 +1,10 @@
 
+img{
+  height: 250px;
+  width: 250px;
+  position: absolute;
+  right: 100px;
+  transform: rotate(8deg);
+  border: 3px ridge black;
+  
+}
