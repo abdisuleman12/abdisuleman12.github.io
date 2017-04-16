@@ -18,7 +18,7 @@ h1
 
 body 
 {
-  background-image: url("background.jpeg");
+  background-image: url("bground2.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -27,7 +27,7 @@ body
 
 #skillset, #workhistory, #education
 {
-  border-bottom: 2px solid gray;
+  border-bottom: 4px solid black;
 }
 
 #address
